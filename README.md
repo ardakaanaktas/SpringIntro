@@ -1,2 +1,2 @@
 # SpringIntro
-Spring frameworkü ilk proje
+Spring framework'ü ilk proje
